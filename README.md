@@ -1,2 +1,2 @@
 # Primeiro-Repositório
-Modelo simples de machine learning 
+Meu primeiro repositório, um modelo de machine learning um projeto simples didático
